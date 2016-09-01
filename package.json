@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/padsbanger/authoban-legacy.git"
   },
+  "dependencies": {
+    "utf-8-validate": ">= 1.2.1",
+    "when": ">= 3.7.3",
+    "ws": ">= 0.8.0",
+    "msgpack-lite": ">= 0.1.17"
+},
   "author": "",
   "license": "ISC",
   "bugs": {
